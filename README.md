@@ -9,6 +9,3 @@
 
 [Shodan Dorks](https://github.com/litt1eb0yy/Awesome-Dorks/blob/master/Shodan-dorks.txt)
 ____________________________________________________________________________________________________________________________________________________________________
-### Support Me :)
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/paypalme/litt1eb0y)
