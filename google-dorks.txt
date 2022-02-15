@@ -1,4 +1,5 @@
 site:accounts..com/signin/ intitle:"index of" drupal intitle:"index of" admin inurl:login.cgiPages Containing Login Portals site:/joomla/administrator
+inurl:"server-status" intitle:"Apache Status" intext:"Apache Server Status for"
 inurl:/login/index.jsp -site:hertz.*
 intitle:"Index of" inurl:wp-json/oembed
 intitle:"Index of" phpmyadmin
